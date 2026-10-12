@@ -4,3 +4,16 @@ promo_text_fa=اخبار و اطلاعیه‌های به‌روزرسانی
 show_promo=true
 apk_post_url=https://t.me/Proxystar_Channel/2
 banner_url=https://raw.githubusercontent.com/devqissy/proxy-star-config/main/banner.png
+
+[Update]
+min_version=100            
+force_update=false
+
+latest_version=100
+optional_update=false
+optional_update_text=The new version has been released with significant improvements.
+
+[Broadcast]
+broadcast_text=
+broadcast_url=
+show_broadcast=false
