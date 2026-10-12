@@ -1,0 +1,4 @@
+# ProxyStar broadcast (global message)
+broadcast_text=
+broadcast_url=
+show_broadcast=false
