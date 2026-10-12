@@ -1,4 +1,5 @@
 # ProxyStar broadcast (global message)
-broadcast_text=
+broadcast_text_en=
+broadcast_text_fa=
 broadcast_url=
 show_broadcast=false
