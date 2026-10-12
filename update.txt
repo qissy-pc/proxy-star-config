@@ -3,6 +3,6 @@
 # latest_version: versionCode of newest release
 min_version=2
 force_update=true
-latest_version=1
+latest_version=2
 optional_update=false
 optional_update_text=
