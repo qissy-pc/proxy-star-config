@@ -2,7 +2,7 @@
 # min_version: versionCode below this = forced update
 # latest_version: versionCode of newest release
 min_version=2
-force_update=true
+force_update=false
 latest_version=2
-optional_update=false
+optional_update=true
 optional_update_text=
