@@ -5,4 +5,5 @@ min_version=1
 force_update=false
 latest_version=1
 optional_update=false
-optional_update_text=
+optional_update_text_en=
+optional_update_text_fa=
