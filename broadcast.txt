@@ -1,4 +1,4 @@
 # ProxyStar broadcast (global message)
-broadcast_text=Our VPN service is now available.
-broadcast_url=https://github.com/DevQissy/proxy-star-config/edit/main/broadcast.txt
-show_broadcast=true
+broadcast_text=
+broadcast_url=
+show_broadcast=false
