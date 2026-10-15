@@ -17,7 +17,7 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
-SOURCES_FILE = Path("sources.txt")
+SOURCES_FILE = Path("sources_v1.txt")
 BLOCKLIST_URLS_FILE = Path("blocklist_urls.txt")
 DEAD_HASHES_FILE = Path("dead_hashes.txt")
 CHANNEL_FILE = Path("channel.txt")
